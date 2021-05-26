@@ -1,0 +1,92 @@
+body {
+    color: #030336;
+    text-align: center font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin: 40px;
+}
+
+div {
+    border: 1px red solid;
+    background-color: #e2e482;
+}
+
+h1 {
+    margin: 40px;
+    text-align: center;
+    color: brown;
+    padding: 10px;
+    
+   
+}
+
+h2 {
+    margin-left: 20px;
+    color: rgb(4, 46, 48);
+    padding: 10px;
+    box-sizing: border-box;
+    10px
+}
+
+h2.miguel {
+    margin: 20px;
+    text-align: center;
+    display: block;
+    font-size: 40px;
+    color: darkblue;
+    background-color: #a39d96;
+}
+
+h2.miguel:hover {
+    background-color: deepskyblue;
+}
+
+img {
+    border: 20PX black solid;
+    position: relative;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+h2.data {
+
+text-align: center;
+font-size: 30px;
+border: 1px #a39d96 solid;
+background-color: #a39d96;
+margin-left: 400px;
+margin-right: 400px
+
+}
+p.saudacoes{
+
+text-align: left;
+border: 1px #a39d96 solid;
+font-size: 30px;
+margin-right: 700px;
+background-color:#a39d96
+
+
+}
+
+
+
+p {
+    padding: 10PX;
+    font-size: 50;
+    text-align: center;
+}
+
+a {
+    font-size: 30px;
+    background: #232b30;
+    color: white;
+    border: 1PX black solid;
+}
+
+a:hover {
+    background: cadetblue;
+}
